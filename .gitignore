@@ -1,0 +1,41 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#Custom
+*.cache
+/Poker_App_VB/Poker_App_VB/obj/*
+Debug/
+obj/
+/Poker_App_VB/.vs/Poker_App_VB/v16/.suo
+/Poker_App_VB/Poker_App_VB/bin/Debug/Poker_App_VB.exe
+/Poker_App_VB/Poker_App_VB/bin/Debug/Poker_App_VB.pdb
